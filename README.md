@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kshitijgupta23
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning web developement
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for new projects
 - 📫 How to reach me: kshitij.gupta2301@gmail.com, +91 7289003884
 
 <!---
