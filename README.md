@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kshitijgupta23
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web developement
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking for new projects
-- 📫 How to reach me: kshitij.gupta2301@gmail.com, +91 7289003884
+- 📫 How to reach me: kshitij.gupta2301@gmail.com
 
 <!---
 Kshitijgupta23/Kshitijgupta23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
